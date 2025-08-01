@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">I am a Python programmer in Iran.</h3>
-<img align="right" alt="ahmad" width="300" scr="https://cdn.dribbble.com/userupload/31681877/file/original-6879c1af5e71ee8ca86dd4ac577845be.gif">
+<img align="right"
+  width="300" scr="https://cdn.dribbble.com/users/1708816/screeshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-h-m-a-d-h&label=Profile%20views&color=0e75b6&style=flat" alt="a-h-m-a-d-h" /> </p>
 
 - 🔭 I’m currently working on **Student performance prediction system**
